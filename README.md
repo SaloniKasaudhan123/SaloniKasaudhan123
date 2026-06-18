@@ -54,7 +54,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaloniKasaudhan123&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaloniKasaudhan123&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SaloniKasaudhan123)
 
 ---
 
