@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi there 👋 I'm Saloni
 
-<!--
-**SaloniKasaudhan123/SaloniKasaudhan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+  Building web applications, learning new technologies.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning the MERN Stack, JavaScript
+- 🚀 Interested in building real-world projects and scalable applications
+- 📚 Constantly improving problem-solving and development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+- JavaScript
+- HTML5
+- CSS3
+- React.js
+- Tailwind CSS
+- Responsive Web Design
+
+### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- Backend Development with Node.js and Express
+- MongoDB & Optimization
+- Authentication & Authorization
+  
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/SaloniKasaudhan123
+- LinkedIn: https://linkedin.com/in/salonikasaudhan99
+
