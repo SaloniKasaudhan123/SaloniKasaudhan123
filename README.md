@@ -11,7 +11,7 @@
 ## 👩‍💻 About Me
 
 - 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning the MERN Stack, JavaScript
+- 🌱 Currently learning the MERN Stack, advance JavaScript
 - 🚀 Interested in building real-world projects and scalable applications
 - 📚 Constantly improving problem-solving and development skills
 
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend Technologies
 - JavaScript
 - HTML5
 - CSS3
@@ -27,7 +27,7 @@
 - Tailwind CSS
 - Responsive Web Design
 
-### Backend Development
+### Backend Technologies
 - Node.js
 - Express.js
 - REST APIs
